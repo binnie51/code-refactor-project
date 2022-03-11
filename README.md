@@ -2,6 +2,8 @@
 
 This project focuses a website's architecture and restructuring the existing code to improve without altering any of its funcionalities. In a given scenario, I'm being hired as a refactor to make their/ site more accesible and user's friendly to those with special needs. 
 
+## 
+
 > **Important**: When working with someone else's code, you should adhere to the **Scout Rule**&mdash;always leave the code a little cleaner than when you found it.
 
 
