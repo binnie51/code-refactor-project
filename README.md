@@ -10,8 +10,8 @@ Git repo: https://github.com/binnie51/code-refactor-project.git
 ## Screenshots 
 
 ### Web Deployment 
-![](assets/images/Screeenshots/site_screenshot-web.PNG)
-![](assets/images/Screeenshots/site_screenshot-web2.PNG)
+![screenshot of the header](assets/images/Screeenshots/site_screenshot-web.PNG)
+![main content of the site](assets/images/Screeenshots/site_screenshot-web2.PNG)
 
 ### Mobile 
-![](assets/images/Screeenshots/mobile_screenshot.PNG)
+![display from the mobile](assets/images/Screeenshots/mobile_screenshot.PNG)
