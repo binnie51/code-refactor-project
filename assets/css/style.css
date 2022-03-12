@@ -9,7 +9,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header styling begins */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -36,11 +36,6 @@ nav a {
     margin-left: 25px;
 }
 
-/* header nav ul li {
-    display: inline-block;
-    margin-left: 25px;
-} */
-
 a {
     color: #ffffff;
     text-decoration: none;
@@ -65,7 +60,9 @@ head .seo {
     color: #d9dcd6;
 }
 
-/* Class Selectors */
+/* Class Selectors begins */
+
+/* hero image */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +72,7 @@ head .seo {
     background-position: center;
 }
 
+/* images selectors within content */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -87,12 +85,14 @@ head .seo {
     max-height: 200px;
 }
 
+/* contents */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+ 
+/* benefits selectors begins */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -127,6 +127,7 @@ head .seo {
     max-width: 150px;
 }
 
+/* Multiple selections for the contents' layout and images */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
